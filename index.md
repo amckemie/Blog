@@ -1,29 +1,18 @@
 ---
 layout: page
-title: Hello Porgramming World!
+title: Hello Programming World!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Hello Programming World!
+###Disclaimer
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+This is this roughest of rough blogs created through github pages.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+As a former English major and marketing editor who is venturing into the world of programming, I wanted to give myself a place to vent frustration, a place to celebrate successes, and a place to keep everyone who is curious about my journey through MakerSquare updated.
 
 ## Update Author Attributes
 
-In `_config.yml` remember to specify your own data:
-
-    title : My Blog =)
-
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
 
 ## Recent Blogs
 
