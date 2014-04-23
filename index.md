@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-# Disclaimer
+### Disclaimer
 
 This is this roughest of rough blogs created through github pages.
 
