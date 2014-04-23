@@ -9,6 +9,8 @@ tagline: Supporting tagline
 
 This is this roughest of rough blogs created through github pages.
 
+## Who Am I
+
 As a former English major and marketing editor who is venturing into the world of programming, I wanted to give myself a place to vent frustration, a place to celebrate successes, and a place to keep everyone who is curious about my journey through MakerSquare updated.
 
 ## Update Author Attributes
